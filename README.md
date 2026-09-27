@@ -4,7 +4,9 @@
 
 ## 遊玩
 
-開啟 GitHub Pages 網址。手機可在瀏覽器選單中加入主畫面。
+開啟 GitHub Pages 網址：<https://hidorabmon.github.io/jianghu-crossroads-game/>
+
+手機可在瀏覽器選單中加入主畫面。
 
 ## v1.1
 
